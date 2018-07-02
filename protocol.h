@@ -17,7 +17,7 @@ static inline unsigned short GetDefaultPort(const bool testnet = fTestNet)
 }
 
 //
-// Message header.
+// Message header
 //  (4) message start
 //  (12) command
 //  (4) size
